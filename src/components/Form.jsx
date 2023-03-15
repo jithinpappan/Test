@@ -9,7 +9,7 @@ function Form() {
     const [message, setMessage] = useState("")
     const clickSubmit =(e)=> {
       e.preventDefault()
-      console.log(name, email,message)
+      // console.log(name, email,message) 
     }
     
     
